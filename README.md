@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OwoseniTimileyin
+- 👋 Hi, I’m OwoseniTimileyin
 - 👀 I’m interested in data analysis, data science, machine learning, data engineering...basically everything data
 - 🌱 I’m currently learning MongoDB
 - 💞️ I’m looking to collaborate on data projects
